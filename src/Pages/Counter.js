@@ -5,8 +5,8 @@ import { connect } from "react-redux";
 function Counter(props) {
   return (
     <div>
-      <button onClick={() => addCar()}>+</button>
-      <button onClick={() => minCar()}>-</button>
+      {/* <button onClick={() => addCar()}>+</button>
+      <button onClick={() => minCar()}>-</button> */}
     </div>
   );
 }
